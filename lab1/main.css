@@ -1,0 +1,49 @@
+﻿body
+{
+    
+    font-family:Tahoma;
+    font-size:16px;
+}
+#formWrapper{
+    border:5px solid;
+    border-radius:5px;
+    border-color:rgba(0, 137, 255, 0.81);
+    width:80%;
+    background-color:rgba(43, 152, 246, 0.91);
+    margin: 2em auto 0 auto;
+    padding: 2em 0 2em 0;
+
+}
+
+form{
+    width:25%;
+    margin: 0 auto 0 auto;
+
+}
+
+label{
+    display:inline-block;
+    margin: 0.3em 0 0.3em 2em;
+
+}
+
+.label{
+    text-align:left;
+   margin: 0 0 0 2.5em;
+}
+
+fieldset{
+    border:3px solid #5bb0e1;
+    border-radius:5px;
+    background-color:#8ec5e5;
+}
+
+#btnWrapper{
+    margin: 2em auto 0 auto;
+
+    width:33%;
+}
+
+button{
+    width:50%;
+}
